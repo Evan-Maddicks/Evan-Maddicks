@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Evan Maddicks,
+I am a Gr.10 student of the St.Mother Teresa(SMT) HighSchool.  I am currently learning about Computer Engineering/Programming, Language and Civics/Careers.  I hope to expand my skill with coding/programming and to learn as much as possible.
+
 <!--
 **Evan-Maddicks/Evan-Maddicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
